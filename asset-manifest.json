@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.0ff4c842.js",
+    "static/js/785.510563d1.js": "/static/js/785.510563d1.js",
+    "static/media/bg.png": "/static/media/bg.4281975af6bc93639fdb.png",
+    "static/media/viking.png": "/static/media/viking.f7efa5c32608a76ccacd.png",
+    "static/media/bg_merchant.png": "/static/media/bg_merchant.aaa548b852c95f625ad3.png",
+    "static/media/btn.png": "/static/media/btn.1a69c666b8556940801a.png",
+    "static/media/btn2.png": "/static/media/btn2.3895bd112b8e6098c4b8.png",
+    "static/media/btn3.png": "/static/media/btn3.63b9ee81a62ecaa761e2.png",
+    "static/media/coin.png": "/static/media/coin.6a414ebc5cebf8ab11d1.png",
+    "favicon.ico": "/favicon.ico",
+    "static/media/balance_bg.png": "/static/media/balance_bg.f643bff4e47afe10eab7.png",
+    "favicon-32.png": "/favicon-32.png",
+    "index.html": "/index.html",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.0ff4c842.js.map": "/static/js/main.0ff4c842.js.map",
+    "785.510563d1.js.map": "/static/js/785.510563d1.js.map"
+  },
+  "entrypoints": [
+    "static/js/785.510563d1.js",
+    "static/js/main.0ff4c842.js"
+  ]
+}
