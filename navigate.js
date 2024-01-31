@@ -49,7 +49,7 @@ export default function Navigate(){
                         headerLeft: () => (
                             <Button
                                 onPress={() => navigation.navigate('Main')} // Перенаправляем на экран 'Main'
-                                title="Домой"
+                                title="Back"
                             />
                         ),
                     })}
